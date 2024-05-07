@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 # Hi there! <img src="res/wave.gif" width="25px">
 
-My name is Nigel Sahl and I'm currently an undergraduate informatics engineering student at Bandung Institute of Technology. My fields of interest are software engineering, artificial intelligence, and machine learning. You can find me on ![LinkedIn][1.1]
+My name is Nigel Sahl and I'm currently an undergraduate informatics engineering student at Bandung Institute of Technology. My fields of interest are software engineering, artificial intelligence, and machine learning. You can find me on 
+
+[![LinkedIn][1.1]][1]
+[![Instagram][2.1]][2]
 
 ## 💻 Tools & Technologies
 
@@ -101,7 +104,12 @@ My name is Nigel Sahl and I'm currently an undergraduate informatics engineering
 </p>
 
 
-[1.1]: res/linkedin.png
+<!-- [1.1]: res/linkedin.png -->
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://www.linkedin.com/in/nigel-sahl-26521a214/
+
+[2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+[2]: https://www.instagram.com/nigel_sahl/
 
